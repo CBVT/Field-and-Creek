@@ -16,9 +16,9 @@ var vrView;
 
 // All the scenes for the experience
 var scenes = {
-  dolphins: {
-    image: 'dolphins.jpg',
-    preview: 'dolphins-preview.jpg',
+  balcony: {
+    image: 'balcony.jpg',
+    preview: 'balcony-preview.jpg',
     hotspots: {
       whaleRight: {
         pitch: 0,
@@ -131,7 +131,7 @@ function onLoad() {
 
 function onVRViewReady(e) {
   console.log('onVRViewReady');
-  loadScene('walrus');
+  loadScene('balcony');
 }
 
 function onModeChange(e) {
