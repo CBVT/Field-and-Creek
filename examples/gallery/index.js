@@ -42,7 +42,7 @@ var scenes = {
   },
    office: {
     image: 'office',
-    preview: 'office-preview.jpg'
+    preview: 'offfice-preview.jpg'
   },
 };
 
