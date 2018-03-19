@@ -28,13 +28,13 @@ var scenes = {
     image: 'living-room.jpg',
     preview: 'living-room-preview.jpg'
   },
-  chichenItza: {
-    image: 'chichen-itza.jpg',
-    preview: 'chichen-itza-preview.jpg'
+  bedroom: {
+    image: 'bedroom.jpg',
+    preview: 'bedroom-preview.jpg'
   },
-  tajMahal: {
-    image: 'taj-mahal.jpg',
-    preview: 'taj-mahal-preview.jpg'
+  bath: {
+    image: 'bath.jpg',
+    preview: 'bath-preview.jpg'
   },
 };
 
