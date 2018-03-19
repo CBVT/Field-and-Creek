@@ -17,8 +17,8 @@ var vrView;
 // All the scenes for the experience
 var scenes = {
   petra: {
-    image: 'petra.jpg',
-    preview: 'petra-preview.jpg'
+    image: 'balcony_xmp_e.jpg',
+    preview: 'balcony_xmp_e-preview.jpg'
   },
   christTheRedeemer: {
     image: 'christ-redeemer.jpg',
@@ -89,7 +89,7 @@ function onVRViewReady(e) {
     });
   }
 
-  loadScene('petra');
+  loadScene('balcony');
 }
 
 function onModeChange(e) {
