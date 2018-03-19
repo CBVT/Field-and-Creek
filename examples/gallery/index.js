@@ -24,9 +24,9 @@ var scenes = {
     image: 'kitchen.jpg',
     preview: 'kitchen-preview.jpg'
   },
-  machuPicchu: {
-    image: 'machu-picchu.jpg',
-    preview: 'machu-picchu-preview.jpg'
+  livingroom: {
+    image: 'living-room.jpg',
+    preview: 'living-room-preview.jpg'
   },
   chichenItza: {
     image: 'chichen-itza.jpg',
