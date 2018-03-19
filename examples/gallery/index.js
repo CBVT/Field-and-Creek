@@ -36,6 +36,10 @@ var scenes = {
     image: 'bath.jpg',
     preview: 'bath-preview.jpg'
   },
+  bedroom1: {
+    image: 'bedroom-1',
+    preview: 'bedroom-1-preview.jpg'
+  },
 };
 
 function onLoad() {
