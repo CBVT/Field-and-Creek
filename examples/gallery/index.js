@@ -20,7 +20,7 @@ var scenes = {
     image: 'balcony_xmp_e.jpg',
     preview: 'balcony-preview.jpg'
   },
-  christTheRedeemer: {
+  kitchen: {
     image: 'kitchen.jpg',
     preview: 'kitchen-preview.jpg'
   },
