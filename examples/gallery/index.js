@@ -16,7 +16,7 @@ var vrView;
 
 // All the scenes for the experience
 var scenes = {
-  balcony: {
+  petra: {
     image: 'balcony_xmp_e.jpg',
     preview: 'balcony_xmp_e.jpg'
   },
