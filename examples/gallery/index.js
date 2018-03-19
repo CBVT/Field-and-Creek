@@ -21,8 +21,8 @@ var scenes = {
     preview: 'balcony-preview.jpg'
   },
   christTheRedeemer: {
-    image: 'christ-redeemer.jpg',
-    preview: 'christ-redeemer-preview.jpg'
+    image: 'kitchen.jpg',
+    preview: 'kitchen-preview.jpg'
   },
   machuPicchu: {
     image: 'machu-picchu.jpg',
