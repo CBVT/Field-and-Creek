@@ -89,7 +89,7 @@ function onVRViewReady(e) {
     });
   }
 
-  loadScene('balcony');
+  loadScene('balcony_xmp_e');
 }
 
 function onModeChange(e) {
