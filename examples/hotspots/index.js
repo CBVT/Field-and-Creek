@@ -17,7 +17,7 @@ var vrView;
 // All the scenes for the experience
 var scenes = {
   balcony: {
-    image: 'balcony.jpg',
+    image: 'balcony-1.JPG',
     preview: 'balcony-preview.jpg',
     hotspots: {
       whaleRight: {
