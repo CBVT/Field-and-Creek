@@ -40,10 +40,7 @@ var scenes = {
     image: 'bedroom-1',
     preview: 'bedroom-1-preview.jpg'
   },
-   office: {
-    image: 'office',
-    preview: 'office-preview.jpg'
-  },
+   
 };
 
 function onLoad() {
