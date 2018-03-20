@@ -38,7 +38,7 @@ var scenes = {
   },
   bedroom1: {
     image: 'bedroom-1.jpg',
-    preview: 'bedroom1-preview.JPG'
+    preview: 'bedroom1-preview.jpg'
   },
    
 };
