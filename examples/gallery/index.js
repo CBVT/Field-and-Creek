@@ -16,7 +16,7 @@ var vrView;
 
 // All the scenes for the experience
 var scenes = {
-  balcony: {
+  entry: {
     image: 'entry.jpg',
     preview: 'entry-preview.jpg'
   },
@@ -24,22 +24,26 @@ var scenes = {
     image: 'kitchen.jpg',
     preview: 'kitchen-preview.jpg'
   },
-  livingroom: {
-    image: 'living-room.jpg',
-    preview: 'living-room-preview.jpg'
+  masterbedroom: {
+    image: 'masterbedroom.jpg',
+    preview: 'masterbedroom-preview.jpg'
+  },
+  masterbedroom: {
+    image: 'bedroom.jpg',
+    preview: 'bedroom-preview.jpg'
   },
   bedroom: {
     image: 'bedroom.jpg',
     preview: 'bedroom-preview.jpg'
   },
-  bath: {
-    image: 'bath.jpg',
-    preview: 'bath-preview.jpg'
+  bathroom: {
+    image: 'bathroom.jpg',
+    preview: 'bathroom-preview.jpg'
   },
-  bedroom1: {
-    image: 'bedroom1.jpg',
-    preview: 'bedroom1-preview.jpg'
-  },
+ loft: {
+    image: 'loft.jpg',
+    preview: 'loft-preview.jpg'
+  }, 
    
 };
 
