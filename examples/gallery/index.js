@@ -17,8 +17,8 @@ var vrView;
 // All the scenes for the experience
 var scenes = {
   balcony: {
-    image: 'balcony.jpg',
-    preview: 'balcony-preview.jpg'
+    image: 'entry.jpg',
+    preview: 'entry-preview.jpg'
   },
   kitchen: {
     image: 'kitchen.jpg',
