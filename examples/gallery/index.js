@@ -28,21 +28,21 @@ var scenes = {
     image: 'masterbedroom.jpg',
     preview: 'masterbedroom-preview.jpg'
   },
-  masterbedroom: {
-    image: 'bedroom.jpg',
-    preview: 'bedroom-preview.jpg'
+  bathroom: {
+    image: 'bathroom.jpg',
+    preview: 'bathroom-preview.jpg'
   },
   bedroom: {
     image: 'bedroom.jpg',
     preview: 'bedroom-preview.jpg'
   },
-  bathroom: {
-    image: 'bathroom.jpg',
-    preview: 'bathroom-preview.jpg'
-  },
- loft: {
+  loft: {
     image: 'loft.jpg',
     preview: 'loft-preview.jpg'
+  },
+ laundry: {
+    image: 'laundry.jpg',
+    preview: 'laundry-preview.jpg'
   }, 
    
 };
@@ -98,7 +98,7 @@ function onVRViewReady(e) {
     });
   }
 
-  loadScene('balcony');
+  loadScene('entry');
 }
 
 function onModeChange(e) {
