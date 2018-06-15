@@ -29,8 +29,8 @@ var scenes = {
     preview: 'masterbedroom-preview.jpg'
   },
   bathroom: {
-    image: 'bathroom.jpg',
-    preview: 'bathroom-preview.jpg'
+    image: 'bath.jpg',
+    preview: 'bath-preview.jpg'
   },
   bedroom: {
     image: 'bedroom.jpg',
