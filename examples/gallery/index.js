@@ -16,7 +16,7 @@ var vrView;
 
 // All the scenes for the experience
 var scenes = {
-  entry: {
+  enter: {
     image: 'enter.jpg',
     preview: 'enter-preview.jpg'
   },
@@ -98,7 +98,7 @@ function onVRViewReady(e) {
     });
   }
 
-  loadScene('entry');
+  loadScene('enter');
 }
 
 function onModeChange(e) {
